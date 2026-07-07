@@ -11,12 +11,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Ridwan Saputra | Full-Stack Developer & AI Enthusiast",
+  title: "Ridwan Saputra | Web Developer & AI Enthusiast",
   description:
     "Passionate developer turning ideas into beautiful digital experiences. Specializing in modern web apps, AI-assisted development, and IT support. Based in Jakarta, Indonesia.",
   keywords: [
     "Ridwan Saputra",
-    "Full-Stack Developer",
     "Web Developer",
     "Frontend Developer",
     "AI Developer",
